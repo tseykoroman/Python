@@ -1,3 +1,5 @@
+"""Поработайте с переменными, создайте несколько, выведите на экран, запросите у пользователя несколько чисел и
+строк и сохраните в переменные, выведите на экран."""
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
